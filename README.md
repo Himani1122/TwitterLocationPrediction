@@ -126,6 +126,19 @@ The test dataset (`testData.csv`) should contain a single `text` column with twe
 3. **Classification** — Three models are trained on an 80/20 train-test split. Accuracy is computed for each and displayed in the UI.
 4. **Prediction** — New tweets go through the same preprocessing pipeline before being classified by the best-performing model (Decision Tree by default).
 
+## Applications
+
+This project has practical value across several real-world domains:
+
+| Use Case | Description |
+|---|---|
+| **Geographic Profiling** | Identify the likely origin of anonymous or pseudonymous accounts based on their writing patterns |
+| **Targeted Advertising** | Help marketers serve region-specific content and ads based on inferred user location |
+| **Regional Trend Analysis** | Understand how topics, sentiments, and language vary across geographic regions |
+| **Disaster Response** | Quickly map where distress-related tweets are coming from during emergencies |
+| **Content Localization** | Automatically route users to region-appropriate content or language settings |
+| **Research & Analytics** | Study linguistic patterns and cultural differences across countries and cities |
+
 ---
 
 ## License
