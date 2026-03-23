@@ -31,6 +31,7 @@ The application walks through the full ML pipeline:
 - Supports 14 location classes across multiple continents
 
 **Supported Locations:** Arizona, Brazil, Brooklyn, Chennai, Florida, India, Indonesia, Kerala, Kirkwall, Pune, Sweden, United States, Mexico, UK
+<img width="2048" height="2048" alt="SA" src="https://github.com/user-attachments/assets/a282faf7-2b8a-43ce-82a4-2ae8179338eb" />
 
 ---
 
